@@ -48,9 +48,18 @@ namespace WebApplication
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
+                endpoints.MapDefaultControllerRoute();
+
+                // equals to
+
+                /*endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");*/
+
+                endpoints.MapControllerRoute(
+                    name: "Privacy",
+                    pattern: "privacy",
+                    defaults: new { controller = "Home", action = "Privacy" });
             });
         }
     }
