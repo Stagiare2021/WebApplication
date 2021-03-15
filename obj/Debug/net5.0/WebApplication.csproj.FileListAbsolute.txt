@@ -38,3 +38,7 @@ D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\ref\Web
 D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\WebApplication.pdb
 D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
 D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\Razor\Views\Authentication\Index.cshtml.g.cs
+D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\Razor\Views\Authentication\Subscription.cshtml.g.cs
+D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+D:\stagiaire\developpement\stage exemple\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs

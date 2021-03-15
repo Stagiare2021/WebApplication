@@ -57,9 +57,9 @@ namespace WebApplication
                     pattern: "{controller=Home}/{action=Index}/{id?}");*/
 
                 endpoints.MapControllerRoute(
-                    name: "Privacy",
-                    pattern: "privacy",
-                    defaults: new { controller = "Home", action = "Privacy" });
+                    name: "Authentication",
+                    pattern: "authentication",
+                    defaults: new { controller = "Authentication", action = "Index" });
             });
         }
     }
